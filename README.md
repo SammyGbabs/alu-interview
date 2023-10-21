@@ -1,1 +1,1 @@
-# alu-interview
+pascal triangle
